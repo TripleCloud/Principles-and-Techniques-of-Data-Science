@@ -7,7 +7,9 @@
 ### The Relational Model
 - Database
 	- an organized collection of data
-	- Data is stored in two-dimensional tables called relations, consisting of individual observations in each row
+	- Data is stored in two-dimensional tables called ==relations==, consisting of individual observations in each row (==tuples==)
+	- Each tuple is a structured data item that represents the relationship between certain ==attributes== (columns)
+	- Each
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MDE5MTI4MF19
+eyJoaXN0b3J5IjpbLTExMjE1MTYyMjddfQ==
 -->
