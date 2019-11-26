@@ -4,7 +4,10 @@
 - Relational database management systems
 	- MySQL or PostgreSQL
 	- use a query language -> SQL
-### Thr
+### The Relational Model
+- Database
+	- an organized collection of data
+	- Data is stored in two-dimensional tables called relations, consisting of individual observations in each row
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0ODI3OTQ5XX0=
+eyJoaXN0b3J5IjpbLTM2MDE5MTI4MF19
 -->
